@@ -27,6 +27,8 @@ overview                   |languages
 
 ### partners
 
-<p> guys who work with me: </p>
+<p> cool dudes who work with me: </p>
 
-+ 
++ [thatOneArchUser](https://github.com/thatOneArchUser)
+
++ [notsniped](https://github.com/notsniped)
