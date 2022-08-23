@@ -14,14 +14,13 @@ current stats              |languages
 ## projects
 
 <p> I am currently contributing on these projects: </p>
-<ul>
-  <li> [Hydungeon](https://github.com/thatOneArchUser/hydungeon) </li>
-  <li> [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) (minor) </li>
-</ul>
 
-### old projects
++ [Hydungeon](https://github.com/thatOneArchUser/hydungeon)
+
++ [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) (minor)
+
+## old projects
 
 <p> I stopped working on these very old projects, I may continue working on them later... (?) </p>
-<ul>
-  <li> [iso6.9](https://github.com/archisha69/iso6.9-cogs) </li>
-</ul>
+
++ [iso6.9](https://github.com/archisha69/iso6.9-cogs)
