@@ -23,4 +23,10 @@ current stats              |languages
 
 <p> I stopped working on these very old projects, I may continue working on them later... (?) </p>
 
-+ [iso6.9](https://github.com/archisha69/iso6.9-cogs)
++ [iso6.9](https://github.com/PyBotDevs/iso6.9-python)
+
+### main projects
+
+<p> You can find my main projects here: </p>
+
+> [project list](https://github.com/stars/archisha69/lists/main)
