@@ -19,14 +19,16 @@ overview                   |languages
 
 + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) (minor)
 
-## old projects
-
-<p> I stopped working on these very old projects, I may continue working on them later... (?) </p>
-
-+ [iso6.9](https://github.com/PyBotDevs/iso6.9-python)
++ [iso6.9](https://github.com/PyBotDevs/iso6.9-python) (suspended)
 
 ### main projects
 
 <p> You can find my main projects here: </p>
 
 > [project list](https://github.com/stars/archisha69/lists/main)
+
+### partners
+
+<p> guys who work with me: </p>
+
++ 
