@@ -13,11 +13,11 @@ overview                   |languages
 
 <p> I am currently contributing on these projects: </p>
 
-> + [Hydungeon](https://github.com/thatOneArchUser/hydungeon) ![bot](https://img.shields.io/badge/-skybloc-8cffff?style=flat)
+> + [Hydungeon](https://github.com/thatOneArchUser/hydungeon) ![bot](https://img.shields.io/badge/-skybloc-64991b?style=flat)
 >
-> + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) ![bot](https://img.shields.io/badge/-minor-8cffff?style=flat)
+> + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) ![bot](https://img.shields.io/badge/-minor-0d77ac?style=flat)
 >
-> + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-suspended-8cffff?style=flat)
+> + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-suspended-909090?style=flat)
 
 ### main projects
 
