@@ -22,6 +22,6 @@ current stats              |languages
 ### old projects
 
 <p> I stopped working on these very old projects, I may continue working on them later... (?) </p>
-<ol>
+<ul>
   <li> [iso6.9]() </li>
-</ol>
+</ul>
