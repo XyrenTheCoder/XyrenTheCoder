@@ -15,7 +15,7 @@ overview                   |languages
 
 <p> I am currently contributing on these projects: </p>
 
-+ [Hydungeon](https://github.com/thatOneArchUser/hydungeon)
++ [Hydungeon](https://github.com/thatOneArchUser/hydungeon) (nice bot btw)
 
 + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) (minor)
 
