@@ -29,6 +29,8 @@ overview                   |languages
 
 <p> cool dudes who work with me: </p>
 
-> + [thatOneArchUser](https://github.com/thatOneArchUser)
+> + [thatOneArchUser](https://github.com/thatOneArchUser) ![Custom](https://img.shields.io/badge/-i%20use%20arch%20btw-cyan?style=flat) ![Developer](https://img.shields.io/badge/-DEV-ff69b4?style=flat) ![Developer](https://img.shields.io/badge/-LEGACY%20ISOBOT%20DEV-blue?style=flat) ![Mafs](https://img.shields.io/badge/-mafs%20guy-darkblue?style=flat)
 >
 > + [notsniped](https://github.com/notsniped)
+
+
