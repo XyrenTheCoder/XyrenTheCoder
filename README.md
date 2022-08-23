@@ -31,6 +31,7 @@ overview                   |languages
 
 > + [thatOneArchUser](https://github.com/thatOneArchUser) ![Custom](https://img.shields.io/badge/-i%20use%20arch%20btw-1793d1?style=flat) ![Developer](https://img.shields.io/badge/-legendary-8cffff?style=flat)
 >
-> + [notsniped](https://github.com/notsniped) 
+> + [notsniped](https://github.com/notsniped) ![Custom](https://img.shields.io/badge/-i%20use%20arch%20btw-1793d1?style=flat) ![Developer](https://img.shields.io/badge/-legendary-8cffff?style=flat)
+>
 
 
