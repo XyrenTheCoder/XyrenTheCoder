@@ -1,3 +1,24 @@
+# about me
+
+## intro
+
+<p> I am a Secondary 5 student. I enjoy coding stuff and it calms me down. </p>
+<p> My childhood dream was to become a programmer and I am mainly working on Discord bots. </p>
+
+## projects
+
+<p> I am currently working on these projects: </p>
+<ul>
+  <li> [Hydungeon]() </li>
+  <li> [Archbot v2]() </li>
+</ul>
+
+### old projects
+
+<p> I stopped working on these very old projects, I may continue working on them later... (?) </p>
+<ol>
+  <li> [iso6.9]() </li>
+</ol>
 
 current stats              |languages
 :-------------------------:|:-------------------------:
