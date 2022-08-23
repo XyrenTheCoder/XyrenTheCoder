@@ -13,11 +13,11 @@ overview                   |languages
 
 <p> I am currently contributing on these projects: </p>
 
-+ [Hydungeon](https://github.com/thatOneArchUser/hydungeon) (nice bot btw)
-
-+ [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) (minor)
-
-+ [iso6.9](https://github.com/PyBotDevs/iso6.9-python) (suspended)
+> + [Hydungeon](https://github.com/thatOneArchUser/hydungeon) (nice bot btw)
+>
+> + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) (minor)
+>
+> + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) (suspended)
 
 ### main projects
 
@@ -29,6 +29,6 @@ overview                   |languages
 
 <p> cool dudes who work with me: </p>
 
-+ [thatOneArchUser](https://github.com/thatOneArchUser)
-
-+ [notsniped](https://github.com/notsniped)
+> + [thatOneArchUser](https://github.com/thatOneArchUser)
+>
+> + [notsniped](https://github.com/notsniped)
