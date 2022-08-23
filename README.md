@@ -2,7 +2,7 @@
 
 <p> I am a Secondary 5 student. I enjoy coding stuff and it calms me down. </p>
 <p> My childhood dream was to become a programmer and I am mainly working on Discord bots. </p>
-<sub> She/They </sub>
+<sub> She/They </sub> <br>
 <sub><sub><sub> I don't code C++ btw </sub></sub></sub>
 
 ## stats
