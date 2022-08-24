@@ -39,7 +39,7 @@ overview                   |languages
 
 # Discord bot challenges
 
-- [x] python bot
+- [x] python bot [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-suspended-909090?style=flat)
 
 - [x] javascript bot
 
