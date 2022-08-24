@@ -19,7 +19,7 @@ overview                   |languages
 >
 > + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) ![bot](https://img.shields.io/badge/-minor-0d77ac?style=flat)
 >
-> + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-suspended-909090?style=flat)
+> + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-was%20a%20testbot%20and%20it%20no%20work-909090?style=flat)
 
 ### main projects
 
