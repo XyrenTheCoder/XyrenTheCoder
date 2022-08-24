@@ -39,9 +39,9 @@ overview                   |languages
 
 # Discord bot challenges
 
-- [x] python bot [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-suspended-909090?style=flat)
+- [x] python bot [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-my%20main%20is%20python-4794c&?style=flat)
 
-- [x] javascript bot [js](https://github.com/archisha69/js) ![bot](https://img.shields.io/badge/-idk%20anymore-909090?style=flat)
+- [x] javascript bot [js](https://github.com/archisha69/js) ![bot](https://img.shields.io/badge/-idk%20anymore-ffe542?style=flat)
 
 - [x] ruby bot [rb](https://github.com/archisha69/rb) ![bot](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
 
