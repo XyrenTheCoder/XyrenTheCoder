@@ -47,4 +47,4 @@ overview                   |languages
 
 - [x] ruby bot
 
-- [] kotlin bot
+- [ ] kotlin bot
