@@ -45,4 +45,5 @@ overview                   |languages
 
 - [x] ruby bot [rb](https://github.com/archisha69/rb) ![bot](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
 
-- [ ] kotlin bot [kt](https://github.com/archisha69/kt) 
+- [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![bot](https://img.shields.io/badge/-cant%20syntax-d98fff?style=flat)
+
