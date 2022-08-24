@@ -19,8 +19,6 @@ overview                   |languages
 >
 > + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) ![bot](https://img.shields.io/badge/-minor-0d77ac?style=flat)
 >
-> + [rb](https://github.com/archisha69/rb) ![bot](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
->
 > + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-suspended-909090?style=flat)
 
 ### main projects
@@ -45,6 +43,6 @@ overview                   |languages
 
 - [x] javascript bot
 
-- [x] ruby bot
+- [x] ruby bot [rb](https://github.com/archisha69/rb) ![bot](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
 
 - [ ] kotlin bot
