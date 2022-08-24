@@ -39,7 +39,7 @@ overview                   |languages
 
 ***thanks for contributing to the projects!***
 
-# challenges
+# Discord bot challenges
 
 - [x] python bot
 
@@ -47,3 +47,4 @@ overview                   |languages
 
 - [x] ruby bot
 
+- [] kotlin bot
