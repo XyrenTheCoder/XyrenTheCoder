@@ -47,5 +47,5 @@ overview                   |language distribution
 
 - [x] ruby bot [rb](https://github.com/archisha69/rb) ![#3](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
 
-- [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat)
+<!-- - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) -->
 
