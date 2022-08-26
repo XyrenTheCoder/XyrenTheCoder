@@ -25,7 +25,7 @@ overview                   |language distribution
 
 <p> You can find my main projects here: </p>
 
-> [project list](https://github.com/stars/archisha69/lists/main.list)
+> [project list](https://github.com/stars/archisha69/lists/main-list)
 
 ### partners
 
@@ -39,7 +39,7 @@ overview                   |language distribution
 
 # challenges
 
-> [challenge list](https://github.com/stars/archisha69/lists/challenges.list)
+> [challenge list](https://github.com/stars/archisha69/lists/challenges-list)
 
 - [x] python bot [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![#1](https://img.shields.io/badge/-my%20main%20is%20python-3d8cd4?style=flat)
 
