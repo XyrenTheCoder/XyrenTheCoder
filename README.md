@@ -45,13 +45,13 @@ overview                   |language distribution
 
 > [challenges list](https://github.com/stars/archisha69/lists/challenges-list)
 
-- [x] python bot [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![#1](https://img.shields.io/badge/-my%20main%20is%20python-3d8cd4?style=flat)
+- [x] I cant code python bot [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![#1](https://img.shields.io/badge/-my%20main%20is%20python-3d8cd4?style=flat)
 
-- [x] javascript bot [js](https://github.com/archisha69/js) ![#2](https://img.shields.io/badge/-idk%20anymore-ffe542?style=flat)
+- [x] i didnt code javascript bot [js](https://github.com/archisha69/js) ![#2](https://img.shields.io/badge/-idk%20anymore-ffe542?style=flat)
 
-- [x] ruby bot [rb](https://github.com/archisha69/rb) ![#3](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
+- [x] NOT A ruby bot [rb](https://github.com/archisha69/rb) ![#3](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
 
-- [x] random cpp calculator [i wasnt supposed to code in cpp](https://github.com/archisha69/something-that-will-never-work) ![#4](https://img.shields.io/badge/-no%20error%20compile%20success-f15b92?style=flat)
+- [x] NOT A random cpp calculator [i wasnt supposed to code in cpp](https://github.com/archisha69/something-that-will-never-work) ![#4](https://img.shields.io/badge/-no%20error%20compile%20success-f15b92?style=flat)
 
 <!-- - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
 - [ ] java bot [java]() ![#5]-->
