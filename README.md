@@ -47,7 +47,7 @@ overview                   |language distribution
 
 - [x] ruby bot [rb](https://github.com/archisha69/rb) ![#3](https://img.shields.io/badge/-5%20hour%20ruby-570c0c?style=flat)
 
-- [x] random cpp calculator [i wasnt supposed to code in cpp](https://github.com/archisha69/something-that-will-never-work) ![#4](https://img.shields.io/badge/-no%20error%20compile%20success-ff92c8?style=flat)
+- [x] random cpp calculator [i wasnt supposed to code in cpp](https://github.com/archisha69/something-that-will-never-work) ![#4](https://img.shields.io/badge/-no%20error%20compile%20success-f15b92?style=flat)
 
 <!-- - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
 - [ ] java bot [java]() ![#5]-->
