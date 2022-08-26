@@ -3,7 +3,7 @@
 <p> I am a Secondary 5 student. I enjoy coding stuff and it calms me down. </p>
 <p> My childhood dream was to become a programmer and I am mainly working on Discord bots. </p>
 
-***You can never trust me.***
+~~***You can never trust me.***~~ or maybe you can?
 
 <br> REAL!
 <sub> She/Her </sub> <br>
