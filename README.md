@@ -4,6 +4,7 @@
 <p> My childhood dream was to become a programmer and I am mainly working on Discord bots. </p>
 
 ~~***You can never trust me,***~~ or maybe you can?
+<p> Im just a normal person who have severe mental problems </p>
 
 <br> REAL!
 <sub> She/Her </sub> <br>
