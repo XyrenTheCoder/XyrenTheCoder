@@ -58,6 +58,8 @@ overview                   |language distribution
 
 - [x] NOT A random cpp calculator [i wasnt supposed to code in cpp](https://github.com/archisha69/something-that-will-never-work) ![#4](https://img.shields.io/badge/-no%20error%20compiled%20success-f15b92?style=flat)
 
+- [x] random depression caused mental breakdown stuff [cursed](https://github.com/archisha69/hello-world)
+
 <!-- - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
 - [ ] java bot [java]() ![#5]-->
 
