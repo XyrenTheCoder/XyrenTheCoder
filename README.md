@@ -15,6 +15,9 @@ overview                   |language distribution
 :-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=archisha69&show_icons=true&hide_border=true&line_height=20&title_color=3de6e6&icon_color=1da998&show_owner=true&count_private=true&theme=dark)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archisha69&hide_border=true&title_color=3de6e6&layout=default&langs_count=10&theme=dark)
 
+activities
+![](https://activity-graph.herokuapp.com/graph?username=archisha69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
 ## projects
 
 <p> I am currently contributing on these projects: </p>
