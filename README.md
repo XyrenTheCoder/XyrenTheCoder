@@ -4,7 +4,7 @@
 <p> My childhood dream was to become a programmer and I am mainly working on Discord bots. </p>
 
 ~~***You can never trust me,***~~ or maybe you can?
-<p> Im just a normal person who have severe mental problems </p>
+<p> Im just a normal person who have severe mental problems... </p>
 
 <br> REAL!
 <sub> She/Her </sub> <br>
@@ -14,7 +14,7 @@
 
 overview                   |language distribution
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=archisha69&show_icons=true&hide_border=true&line_height=20&title_color=3de6e6&icon_color=1da998&show_owner=true&count_private=true&theme=dark)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archisha69&hide_border=true&title_color=3de6e6&layout=default&langs_count=20&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=archisha69&show_icons=true&hide_border=true&line_height=20&title_color=3de6e6&icon_color=1da998&show_owner=true&count_private=true&theme=dark)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archisha69&hide_border=true&title_color=3de6e6&layout=default&langs_count=25&theme=dark)
 
 <p align="center"> activities </p>
 
