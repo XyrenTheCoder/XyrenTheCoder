@@ -20,17 +20,7 @@ overview                   |language distribution
 
 ![](https://activity-graph.herokuapp.com/graph?username=archisha69&bg_color=0d1117&color=3de6e6&line=3de6e6&point=FFFFFF&hide_border=true)
 
-## projects
-
-<p> I am currently contributing on these projects: </p>
-
-> + [Hydungeon](https://github.com/thatOneArchUser/hydungeon) ![bot](https://img.shields.io/badge/-skybloc-64991b?style=flat)
->
-> + [Archbot v2](https://github.com/thatOneArchUser/cpp-discord-bot) ![bot](https://img.shields.io/badge/-minor-0d77ac?style=flat)
->
-> + [iso6.9](https://github.com/PyBotDevs/iso6.9-python) ![bot](https://img.shields.io/badge/-was%20a%20testbot%20and%20it%20no%20work-909090?style=flat)
-
-### main projects
+## main projects
 
 <p> You can find my main projects here: </p>
 
