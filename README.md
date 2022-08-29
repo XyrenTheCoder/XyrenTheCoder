@@ -14,7 +14,7 @@
 
 overview                   |language distribution
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=archisha69&show_icons=true&hide_border=true&line_height=20&title_color=3de6e6&icon_color=3de6e6&show_owner=true&count_private=true&theme=dark)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archisha69&hide_border=true&title_color=3de6e6&layout=default&langs_count=35&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=archisha69&show_icons=true&hide_border=true&line_height=20&title_color=3de6e6&icon_color=3de6e6&show_owner=true&count_private=true&theme=dark)   |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archisha69&hide_border=true&title_color=3de6e6&layout=default&langs_count=34&theme=dark)
 
 <p align="center"> activities </p>
 
@@ -49,6 +49,8 @@ overview                   |language distribution
 - [x] NOT A random cpp calculator [i wasnt supposed to code in cpp](https://github.com/archisha69/something-that-will-never-work) ![#4](https://img.shields.io/badge/-no%20error%20compiled%20success-f15b92?style=flat)
 
 - [x] random depression caused mental breakdown stuff [cursed](https://github.com/archisha69/hello-world)
+
+- [ ] cant fix and wont fix [i give up](https://github.com/archisha69/this-didnt-work)
 
 <!-- - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
 - [ ] java bot [java]() ![#5]-->
