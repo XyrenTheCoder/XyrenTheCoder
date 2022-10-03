@@ -4,7 +4,7 @@
 <p> My childhood dream was to become a programmer. </p>
 <p> Im just a normal person who have severe mental problems... </p>
 <br>
-<sub> She/Her </sub> <br>
+<sup> She/Her </sup> <br>
 
 ## stats
 
