@@ -46,8 +46,9 @@ overview                   |language distribution
 
 - [x] random depression caused mental breakdown stuff [cursed](https://github.com/archisha69/hello-world)
 
+<!--
 - [ ] cant fix and wont fix [i give up](https://github.com/archisha69/this-didnt-work)
-
-<!-- - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
-- [ ] java bot [java]() ![#5]-->
+- [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
+- [ ] java bot [java]() ![#5]
+-->
 
