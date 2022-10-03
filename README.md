@@ -3,10 +3,8 @@
 <p> I am a Secondary 5 student. I enjoy coding stuff and it calms me down. </p>
 <p> My childhood dream was to become a programmer. </p>
 <p> Im just a normal person who have severe mental problems... </p>
-
 <br>
 <sub> She/Her </sub> <br>
-<sub><sub> I don't code C++ btw </sub></sub>
 
 ## stats
 
