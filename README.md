@@ -1,8 +1,8 @@
 # about me
 
-<p> I am a Secondary 5 student. I enjoy coding stuff and it calms me down. </p>
-<p> My childhood dream was to become a programmer. </p>
-<p> Im just a normal person who have severe mental problems... </p>
+<p> I am a Secondary 5 student. I enjoy coding random stuff. </p>
+<p> My dream was to become a programmer. </p>
+<p> I have mental problems </p>
 <br>
 <sup> She/Her </sup> <br>
 
