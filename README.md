@@ -46,7 +46,7 @@ overview                   |language distribution
 
 - [x] random depression caused mental breakdown stuff [cursed](https://github.com/archisha69/hello-world)
 
-- [x] Snake In A Void game made with Pygame [interesting stuff](https://github.com/archisha69/snake-in-a-void-pygame)[e](https://img.shields.io/badge/-sssssssssssnake-f15b92?style=flat)
+- [x] Snake In A Void game made with Pygame [interesting stuff](https://github.com/archisha69/snake-in-a-void-pygame)![e](https://img.shields.io/badge/-sssssssssssnake-0000ff?style=flat)
 
 <!--
 - [ ] cant fix and wont fix [i give up](https://github.com/archisha69/this-didnt-work)
