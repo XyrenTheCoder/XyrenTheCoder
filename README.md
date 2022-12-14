@@ -32,6 +32,7 @@ overview                   |language distribution
 
 ***thanks for contributing to the projects! :D***
 
+<!--
 # challenges
 
 > [challenges list](https://github.com/stars/archisha69/lists/challenges-list)
@@ -48,7 +49,6 @@ overview                   |language distribution
 
 - [x] Snake In A Void game made with Pygame [interesting stuff](https://github.com/archisha69/snake-in-a-void-pygame) ![e](https://img.shields.io/badge/-sssssssssssnake-0000ff?style=flat)
 
-<!--
 - [ ] cant fix and wont fix [i give up](https://github.com/archisha69/this-didnt-work)
 - [ ] kotlin bot [kt](https://github.com/archisha69/kt) ![#4](https://img.shields.io/badge/-cant%20syntax-c784ff?style=flat) 
 - [ ] java bot [java]() ![#5]
