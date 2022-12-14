@@ -1,10 +1,9 @@
 # about me
 
-<p> I am a Secondary 5 student. I enjoy coding random stuff. </p>
-<p> My dream was to become a programmer. </p>
-<p> I have mental problems </p>
-<br>
-<sup> She/Her </sup> <br>
+<p>I am a Secondary 5 student who enjoy coding random stuff.</p>
+<p>My dream was to become a programmer.</p>
+<p>I have mental problems</p><br>
+<sup>She/Her</sup><br>
 
 ## stats
 
@@ -18,13 +17,13 @@ overview                   |language distribution
 
 ## main projects
 
-<p> You can find my main projects here: </p>
+<p> Main projects here: </p>
 
 > [project list](https://github.com/stars/archisha69/lists/main-list)
 
 ### partners
 
-<p> cool dudes who work with me (real, no cap): </p>
+<p> cool dudes who work with me (real): </p>
 
 > + [thatOneArchUser](https://github.com/thatOneArchUser) 
 >
