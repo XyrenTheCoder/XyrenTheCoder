@@ -1,6 +1,7 @@
 # about me
 
 <p>I am a Secondary 5 student who enjoy coding random stuff.</p>
+<p>I write webpages (html, css, js) and I also code in Python, Ruby, c++</p>
 <p>My dream was to become a programmer.</p>
 <p>I have mental problems</p><br>
 <sup>She/Her</sup><br>
@@ -14,12 +15,6 @@ overview                   |language distribution
 <p align="center"> activities </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=archisha69&bg_color=0d1117&color=3de6e6&line=3de6e6&point=FFFFFF&hide_border=true)
-
-## main projects
-
-<p> Main projects here: </p>
-
-> [project list](https://github.com/stars/archisha69/lists/main-list)
 
 ### partners
 
