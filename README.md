@@ -3,7 +3,7 @@
 <p>I am a Secondary 5 student who enjoy coding random stuff.</p>
 <p>I write webpages (html, css, js) and I also code in Python, Ruby, c++</p>
 <p>My dream was to become a programmer.</p>
-<p>I have mental problems</p><br>
+
 <sup>She/Her</sup><br>
 
 ## stats
