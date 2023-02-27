@@ -17,7 +17,7 @@ overview                   |language distribution
 
 <p> cool dudes who work with me (real): </p>
 
-> + [thatOneArchUser](https://github.com/ohioresident24) 
+> + [thatOneArchUser](https://github.com/hairyballtheorem) 
 >
 > + [notsniped](https://github.com/notsniped)
 
