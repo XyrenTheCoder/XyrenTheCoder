@@ -1,6 +1,6 @@
 # about me
 
-<p>I am a Secondary 5 student who enjoy coding random stuff.</p>
+<p>I am a Secondary 6 student who enjoy coding random stuff.</p>
 <p>I write webpages (html, css, js) and I also code in Python, Ruby</p>
 <sub>(No C++, please)</sub>
 <p>My dream was to become a programmer.</p>
