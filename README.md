@@ -1,7 +1,7 @@
 # about me
 
-<p>I am a Secondary 6 student who enjoys coding random stuff and playing chess.</p>
-<p>I write simple webpage (html, css, js) and I also code in Python, Ruby</p>
+<p>I am a student who enjoys coding random stuff and playing games.</p>
+<p>I write simple webpage (html, css, js) and I code in Python, learning C++.</p>
 <p>My dream was to become a programmer.</p>
 
 <sup>She/Her</sup><br>
