@@ -4,8 +4,6 @@
 <p>I write simple webpage (html, css, js) and I code in Python, learning C++.</p>
 <p>My dream was to become a programmer.</p>
 
-<sup>She/Her</sup><br>
-
 ## stats
 
 overview                   |language distribution
