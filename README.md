@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="https://ik.imagekit.io/as7ksk9qe/IMG_5353.jpeg?updatedAt=1746889270484" width="500px" height="100px">
+    <img src="https://ik.imagekit.io/as7ksk9qe/IMG_5353.jpeg?updatedAt=1746889270484">
   </body>
   
 </html>
