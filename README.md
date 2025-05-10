@@ -1,3 +1,5 @@
+<img src="https://ik.imagekit.io/as7ksk9qe/IMG_5353.jpeg?updatedAt=1746889270484">
+
 # about me
 
 <p>I am a student who enjoys coding random stuff and playing games.</p>
