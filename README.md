@@ -5,7 +5,7 @@
  
 # About Me
 
-<p>I am a student who enjoys coding random stuff and playing games.</p>
+<p>I am Xyren, a student who enjoys coding and playing games.</p>
 
 <p>My dream was to become a programmer.</p>
 
