@@ -1,7 +1,7 @@
 <img src="https://ik.imagekit.io/as7ksk9qe/IMG_5353.jpeg?updatedAt=1746889270484">
 
 # They fell for the rose but I fell for its thorns.
-<hr>
+
  
 # About Me
 
