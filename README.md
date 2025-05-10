@@ -1,17 +1,12 @@
 <html>
   <body>
     <img src="https://ik.imagekit.io/as7ksk9qe/IMG_5353.jpeg?updatedAt=1746889270484">
+
+    <h1>About Me</h1>
+    <p>I am a student who enjoys coding random stuff and playing games.</p>
+    <p>My dream was to become a programmer.</p>
   </body>
-  
 </html>
-
-
-
-# about me
-
-<p>I am a student who enjoys coding random stuff and playing games.</p>
-
-<p>My dream was to become a programmer.</p>
 
 ## stats
 
