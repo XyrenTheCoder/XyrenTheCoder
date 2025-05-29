@@ -5,7 +5,9 @@
  
 # About Me
 
-<p>I am Xyren, a student who enjoys coding and playing games.</p>
+<p>I am Xyren, a student who enjoys coding, drawing, and playing games.</p>
+
+<p>I am an artist who drew various of stuff (icon design, Diep.io banner, character design etc.)</p>
 
 <p>My dream was to become a programmer.</p>
 
