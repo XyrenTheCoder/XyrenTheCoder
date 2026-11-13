@@ -9,7 +9,7 @@
 
 <p>I am an artist who draws various of stuff (Diep.io/ Havre.io banner, game fanart, character (OC) design etc.).</p>
 
-<p>io games that I play: Diep.io, Havre.io, Florr.io Arras.io</p>
+<p>io games that I play: Diep.io, Havre.io, Florr.io, Arras.io</p>
 
 <ul>GreasyFork: https://greasyfork.org/en/users/1496700-xyrenthecoder</ul>
 
